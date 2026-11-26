@@ -1,0 +1,17 @@
+torch
+numpy
+pandas
+pyarrow
+scikit-learn
+statsmodels
+matplotlib
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-cloud-storage
+db-dtypes
+# tests + notebook build
+duckdb>=1.0
+sqlglot>=25,<31
+pytest
+nbformat
+ipython

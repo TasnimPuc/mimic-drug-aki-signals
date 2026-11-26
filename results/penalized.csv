@@ -1,0 +1,337 @@
+exposure,kind,n_exposed,shrunk_or
+cefazolin + cefepime,pair (interaction),258,1.4596518
+fluconazole + trimethoprim-sulfamethoxazole,pair (interaction),1069,1.3484181
+cefepime + ceftriaxone,pair (interaction),2819,1.2459842
+amoxicillin-clavulanate + ciprofloxacin,pair (interaction),209,1.2438247
+piperacillin-tazobactam + vancomycin,pair (interaction),10606,1.2104452
+metronidazole + micafungin,pair (interaction),145,1.2016363
+metronidazole + vancomycin,pair (interaction),10763,1.1982629
+cephalexin,drug,3435,1.1863526
+acyclovir + vancomycin,pair (interaction),4039,1.1844828
+ampicillin-sulbactam + levofloxacin,pair (interaction),118,1.1826727
+acyclovir + ceftriaxone,pair (interaction),2154,1.1820464
+cefazolin + metronidazole,pair (interaction),1029,1.1743197
+cefepime + gentamicin,pair (interaction),107,1.1699513
+cefepime + meropenem,pair (interaction),529,1.1672668
+acyclovir + linezolid,pair (interaction),102,1.1653218
+acyclovir + clindamycin,pair (interaction),156,1.1637007
+azithromycin + meropenem,pair (interaction),208,1.1604973
+ampicillin + clindamycin,pair (interaction),193,1.1576276
+ampicillin-sulbactam + fluconazole,pair (interaction),207,1.1428474
+acyclovir + ampicillin-sulbactam,pair (interaction),162,1.1410841
+ceftriaxone + trimethoprim-sulfamethoxazole,pair (interaction),1174,1.139677
+metronidazole + nitrofurantoin,pair (interaction),51,1.1383789
+micafungin + piperacillin-tazobactam,pair (interaction),123,1.1375353
+acyclovir + voriconazole,pair (interaction),354,1.1373866
+cefepime + linezolid,pair (interaction),380,1.1356981
+doxycycline + piperacillin-tazobactam,pair (interaction),218,1.1328939
+doxycycline + meropenem,pair (interaction),92,1.1212826
+meropenem + metronidazole,pair (interaction),596,1.1167207
+ampicillin-sulbactam + vancomycin (oral),pair (interaction),64,1.1139557
+gentamicin + piperacillin-tazobactam,pair (interaction),93,1.1022203
+azithromycin + clindamycin,pair (interaction),139,1.1022122
+ampicillin-sulbactam + metronidazole,pair (interaction),576,1.1020545
+vancomycin + vancomycin (oral),pair (interaction),1266,1.1014543
+acyclovir + azithromycin,pair (interaction),850,1.1011127
+acyclovir + meropenem,pair (interaction),418,1.1010737
+levofloxacin + meropenem,pair (interaction),206,1.0983468
+ceftazidime + ceftriaxone,pair (interaction),399,1.0901562
+ciprofloxacin + linezolid,pair (interaction),177,1.0897648
+azithromycin + ciprofloxacin,pair (interaction),202,1.0881199
+ampicillin-sulbactam + ceftriaxone,pair (interaction),390,1.0876396
+meropenem + voriconazole,pair (interaction),58,1.0862345
+daptomycin + levofloxacin,pair (interaction),61,1.0858074
+cefazolin + levofloxacin,pair (interaction),158,1.0830578
+ampicillin-sulbactam + ciprofloxacin,pair (interaction),495,1.082962
+ampicillin-sulbactam + piperacillin-tazobactam,pair (interaction),648,1.0805408
+clindamycin + meropenem,pair (interaction),142,1.0786178
+ampicillin-sulbactam + cefepime,pair (interaction),244,1.0756886
+ganciclovir + meropenem,pair (interaction),68,1.0731956
+ampicillin-sulbactam + clindamycin,pair (interaction),223,1.0723518
+amoxicillin-clavulanate + levofloxacin,pair (interaction),77,1.0695038
+cefazolin + nitrofurantoin,pair (interaction),74,1.0689981
+azithromycin + metronidazole,pair (interaction),888,1.0669376
+aztreonam + meropenem,pair (interaction),53,1.0646214
+ceftriaxone + ciprofloxacin,pair (interaction),1621,1.0644778
+ceftriaxone + daptomycin,pair (interaction),143,1.0634829
+daptomycin + meropenem,pair (interaction),285,1.0605268
+azithromycin + cefazolin,pair (interaction),75,1.0603715
+ciprofloxacin + clindamycin,pair (interaction),366,1.0587927
+cefazolin + ceftriaxone,pair (interaction),485,1.0583211
+linezolid + trimethoprim-sulfamethoxazole,pair (interaction),109,1.0573238
+ciprofloxacin + daptomycin,pair (interaction),141,1.0566698
+cefepime + doxycycline,pair (interaction),506,1.0534492
+amoxicillin-clavulanate + metronidazole,pair (interaction),315,1.0514017
+ceftazidime + meropenem,pair (interaction),82,1.0508276
+azithromycin + linezolid,pair (interaction),88,1.0500202
+cefepime + ceftazidime,pair (interaction),653,1.0493093
+azithromycin + doxycycline,pair (interaction),458,1.0462388
+azithromycin + cefpodoxime,pair (interaction),345,1.0457373
+doxycycline + trimethoprim-sulfamethoxazole,pair (interaction),214,1.0438358
+trimethoprim-sulfamethoxazole + vancomycin,pair (interaction),2377,1.0436145
+ceftriaxone + doxycycline,pair (interaction),1443,1.0435773
+metronidazole + tobramycin,pair (interaction),87,1.0430427
+cefepime + metronidazole,pair (interaction),6363,1.0413737
+azithromycin + cefepime,pair (interaction),2679,1.0413133
+cefepime + ciprofloxacin,pair (interaction),1068,1.0397557
+cefazolin + piperacillin-tazobactam,pair (interaction),210,1.0396653
+cefepime + ganciclovir,pair (interaction),203,1.0384873
+fluconazole + vancomycin,pair (interaction),1426,1.0383774
+cefepime + tobramycin,pair (interaction),137,1.0372599
+azithromycin + vancomycin (oral),pair (interaction),185,1.0366907
+clindamycin + metronidazole,pair (interaction),391,1.0358527
+ciprofloxacin + levofloxacin,pair (interaction),508,1.0337508
+aztreonam + fluconazole,pair (interaction),57,1.0324514
+levofloxacin + trimethoprim-sulfamethoxazole,pair (interaction),619,1.0322278
+aztreonam + trimethoprim-sulfamethoxazole,pair (interaction),57,1.0320301
+ciprofloxacin + vancomycin (oral),pair (interaction),461,1.0316641
+acyclovir + cefepime,pair (interaction),2476,1.0304296
+acyclovir + ceftazidime,pair (interaction),146,1.0293627
+ampicillin-sulbactam + ganciclovir,pair (interaction),80,1.0293323
+trimethoprim-sulfamethoxazole + voriconazole,pair (interaction),169,1.0292354
+ceftazidime + vancomycin (oral),pair (interaction),78,1.0291737
+penicillin + vancomycin,pair (interaction),55,1.0289803
+clindamycin + fluconazole,pair (interaction),70,1.0282896
+cefpodoxime + ceftriaxone,pair (interaction),571,1.0271382
+ciprofloxacin + ganciclovir,pair (interaction),126,1.0262805
+nitrofurantoin + trimethoprim-sulfamethoxazole,pair (interaction),70,1.0262073
+clindamycin + vancomycin,pair (interaction),1702,1.0255287
+cefepime + voriconazole,pair (interaction),163,1.0252852
+amoxicillin-clavulanate + clindamycin,pair (interaction),57,1.0252789
+ceftriaxone + vancomycin (oral),pair (interaction),554,1.0246141
+amoxicillin + vancomycin,pair (interaction),81,1.0242122
+acyclovir + cephalexin,pair (interaction),89,1.020785
+cefepime + micafungin,pair (interaction),172,1.0181016
+ceftazidime + doxycycline,pair (interaction),77,1.0180489
+aztreonam + ciprofloxacin,pair (interaction),148,1.0172739
+amoxicillin-clavulanate + doxycycline,pair (interaction),109,1.0171344
+doxycycline + levofloxacin,pair (interaction),163,1.0147638
+amoxicillin + ciprofloxacin,pair (interaction),59,1.0130343
+acyclovir + vancomycin (oral),pair (interaction),592,1.0130266
+ceftriaxone + linezolid,pair (interaction),213,1.011368
+ceftazidime + levofloxacin,pair (interaction),100,1.0111529
+clindamycin + doxycycline,pair (interaction),150,1.0092415
+cefazolin + fluconazole,pair (interaction),83,1.0090412
+cefepime + clindamycin,pair (interaction),388,1.0082815
+meropenem + micafungin,pair (interaction),91,1.008138
+azithromycin + vancomycin,pair (interaction),4199,1.0080136
+daptomycin + linezolid,pair (interaction),98,1.0076512
+fluconazole + metronidazole,pair (interaction),624,1.0070437
+azithromycin + fluconazole,pair (interaction),169,1.0067774
+acyclovir + amoxicillin-clavulanate,pair (interaction),103,1.0067359
+gentamicin + meropenem,pair (interaction),74,1.0058091
+clindamycin + trimethoprim-sulfamethoxazole,pair (interaction),148,1.0053436
+levofloxacin + vancomycin,pair (interaction),3532,1.0049425
+cefepime + daptomycin,pair (interaction),287,1.0048618
+azithromycin + levofloxacin,pair (interaction),1112,1.0047951
+linezolid + metronidazole,pair (interaction),286,1.0040787
+ampicillin + ciprofloxacin,pair (interaction),96,1.003509
+doxycycline + vancomycin (oral),pair (interaction),69,1.0028845
+ertapenem + meropenem,pair (interaction),50,1.0028197
+ampicillin + piperacillin-tazobactam,pair (interaction),100,1.0010374
+daptomycin + micafungin,pair (interaction),51,0.9986869
+ciprofloxacin + trimethoprim-sulfamethoxazole,pair (interaction),822,0.99817497
+ceftriaxone + vancomycin,pair (interaction),9825,0.99771476
+fluconazole + piperacillin-tazobactam,pair (interaction),693,0.9973971
+gentamicin + metronidazole,pair (interaction),181,0.99543893
+ampicillin + ceftazidime,pair (interaction),63,0.994145
+meropenem + trimethoprim-sulfamethoxazole,pair (interaction),314,0.9922348
+nafcillin + vancomycin,pair (interaction),210,0.9918544
+fluconazole + linezolid,pair (interaction),91,0.99181885
+clindamycin + piperacillin-tazobactam,pair (interaction),577,0.99111134
+clindamycin + gentamicin,pair (interaction),423,0.98996145
+ceftriaxone + piperacillin-tazobactam,pair (interaction),1668,0.98930734
+amoxicillin + trimethoprim-sulfamethoxazole,pair (interaction),61,0.98817086
+imipenem + vancomycin,pair (interaction),78,0.98807174
+metronidazole + vancomycin (oral),pair (interaction),1577,0.9875407
+fluconazole + meropenem,pair (interaction),192,0.98753285
+cefpodoxime + ciprofloxacin,pair (interaction),80,0.98749715
+piperacillin-tazobactam + vancomycin (oral),pair (interaction),452,0.9865416
+cefepime + cefpodoxime,pair (interaction),67,0.9855998
+azithromycin + aztreonam,pair (interaction),61,0.98377115
+cefepime + levofloxacin,pair (interaction),1541,0.983636
+ceftriaxone + gentamicin,pair (interaction),134,0.98333627
+azithromycin + trimethoprim-sulfamethoxazole,pair (interaction),779,0.9817566
+cefazolin + trimethoprim-sulfamethoxazole,pair (interaction),294,0.9817234
+cefazolin + doxycycline,pair (interaction),101,0.9798535
+azithromycin + rifampin,pair (interaction),50,0.9781814
+doxycycline + vancomycin,pair (interaction),1138,0.9777764
+ceftriaxone + ganciclovir,pair (interaction),78,0.9764628
+ceftriaxone + clindamycin,pair (interaction),385,0.97457755
+cefpodoxime + trimethoprim-sulfamethoxazole,pair (interaction),88,0.97417545
+daptomycin + piperacillin-tazobactam,pair (interaction),187,0.9739682
+metronidazole + voriconazole,pair (interaction),59,0.97383446
+ganciclovir + vancomycin (oral),pair (interaction),79,0.9727555
+amoxicillin-clavulanate + piperacillin-tazobactam,pair (interaction),190,0.9708745
+ganciclovir + vancomycin,pair (interaction),397,0.9682141
+ganciclovir + piperacillin-tazobactam,pair (interaction),197,0.9680825
+amoxicillin-clavulanate + azithromycin,pair (interaction),126,0.9680189
+ampicillin + gentamicin,pair (interaction),327,0.96679413
+ceftriaxone + nitrofurantoin,pair (interaction),192,0.9665961
+ampicillin + azithromycin,pair (interaction),71,0.966526
+ampicillin-sulbactam + doxycycline,pair (interaction),125,0.96641153
+cefepime + vancomycin,pair (interaction),16384,0.9633881
+ciprofloxacin + nitrofurantoin,pair (interaction),94,0.9610287
+azithromycin + voriconazole,pair (interaction),53,0.9603295
+ampicillin-sulbactam + trimethoprim-sulfamethoxazole,pair (interaction),270,0.96019554
+meropenem + tobramycin,pair (interaction),85,0.9595131
+daptomycin + fluconazole,pair (interaction),106,0.95901686
+acyclovir + aztreonam,pair (interaction),148,0.9576949
+azithromycin + ganciclovir,pair (interaction),63,0.95752084
+ciprofloxacin + meropenem,pair (interaction),293,0.95653015
+levofloxacin + voriconazole,pair (interaction),69,0.95470005
+nafcillin,drug,495,0.95445096
+doxycycline + metronidazole,pair (interaction),325,0.95314944
+aztreonam + metronidazole,pair (interaction),204,0.95294434
+trimethoprim-sulfamethoxazole + vancomycin (oral),pair (interaction),298,0.9529225
+gentamicin + vancomycin,pair (interaction),746,0.95263606
+cefpodoxime + levofloxacin,pair (interaction),53,0.9510997
+ceftazidime + metronidazole,pair (interaction),984,0.9504772
+doxycycline + fluconazole,pair (interaction),51,0.94848543
+cefazolin + clindamycin,pair (interaction),159,0.9481962
+cefpodoxime + vancomycin,pair (interaction),110,0.9480734
+ciprofloxacin + piperacillin-tazobactam,pair (interaction),1231,0.9480542
+ampicillin + trimethoprim-sulfamethoxazole,pair (interaction),85,0.9476817
+levofloxacin + metronidazole,pair (interaction),1784,0.9465609
+ampicillin-sulbactam + azithromycin,pair (interaction),196,0.9463897
+cefpodoxime + doxycycline,pair (interaction),72,0.9459079
+levofloxacin + vancomycin (oral),pair (interaction),212,0.94567335
+ceftriaxone + levofloxacin,pair (interaction),1277,0.9446716
+ampicillin + metronidazole,pair (interaction),200,0.94453377
+meropenem + piperacillin-tazobactam,pair (interaction),467,0.94437873
+ceftriaxone + fluconazole,pair (interaction),315,0.943364
+aztreonam + cefepime,pair (interaction),61,0.942336
+acyclovir + daptomycin,pair (interaction),150,0.941132
+acyclovir + cefazolin,pair (interaction),191,0.94109344
+piperacillin-tazobactam + voriconazole,pair (interaction),65,0.9407324
+cephalexin + metronidazole,pair (interaction),67,0.93976206
+acyclovir + fluconazole,pair (interaction),1245,0.93943393
+cefepime + piperacillin-tazobactam,pair (interaction),1861,0.9390535
+ceftriaxone + meropenem,pair (interaction),286,0.9379194
+ampicillin-sulbactam + vancomycin,pair (interaction),2172,0.9365689
+ceftazidime + ciprofloxacin,pair (interaction),117,0.9357213
+aztreonam + levofloxacin,pair (interaction),156,0.9352513
+ganciclovir + trimethoprim-sulfamethoxazole,pair (interaction),1257,0.93510276
+ciprofloxacin + fluconazole,pair (interaction),432,0.93479645
+fluconazole + vancomycin (oral),pair (interaction),198,0.93368375
+daptomycin + vancomycin (oral),pair (interaction),79,0.9326093
+cefpodoxime + metronidazole,pair (interaction),76,0.93195105
+clindamycin + levofloxacin,pair (interaction),283,0.9310198
+ceftazidime + trimethoprim-sulfamethoxazole,pair (interaction),95,0.93086165
+fluconazole + levofloxacin,pair (interaction),285,0.9295841
+cefepime + trimethoprim-sulfamethoxazole,pair (interaction),1246,0.9275419
+ampicillin + ceftriaxone,pair (interaction),1049,0.9272215
+cefepime + cephalexin,pair (interaction),50,0.92687404
+ampicillin + cefepime,pair (interaction),286,0.92320955
+ganciclovir + levofloxacin,pair (interaction),66,0.922566
+linezolid + vancomycin (oral),pair (interaction),96,0.92136174
+meropenem + vancomycin,pair (interaction),2162,0.9211549
+amoxicillin + ceftriaxone,pair (interaction),59,0.92068464
+daptomycin + vancomycin,pair (interaction),262,0.92055756
+acyclovir + levofloxacin,pair (interaction),985,0.9197293
+metronidazole + piperacillin-tazobactam,pair (interaction),2943,0.9195401
+amoxicillin-clavulanate + cefepime,pair (interaction),110,0.9189993
+ciprofloxacin + doxycycline,pair (interaction),158,0.91861385
+levofloxacin + linezolid,pair (interaction),99,0.9174752
+daptomycin + trimethoprim-sulfamethoxazole,pair (interaction),93,0.9164283
+gentamicin + levofloxacin,pair (interaction),57,0.9161236
+daptomycin + metronidazole,pair (interaction),234,0.9149031
+ciprofloxacin + gentamicin,pair (interaction),90,0.9140686
+amoxicillin-clavulanate + fluconazole,pair (interaction),59,0.9140334
+amoxicillin-clavulanate + ampicillin-sulbactam,pair (interaction),414,0.91385585
+piperacillin-tazobactam + tobramycin,pair (interaction),96,0.9137392
+cephalexin + ciprofloxacin,pair (interaction),95,0.91360915
+piperacillin-tazobactam + trimethoprim-sulfamethoxazole,pair (interaction),586,0.9135496
+rifampin + vancomycin,pair (interaction),108,0.9124483
+micafungin + vancomycin,pair (interaction),283,0.9113947
+cefepime + vancomycin (oral),pair (interaction),890,0.9091071
+acyclovir + piperacillin-tazobactam,pair (interaction),508,0.9089017
+nitrofurantoin + vancomycin,pair (interaction),102,0.9079319
+fluconazole + ganciclovir,pair (interaction),592,0.9069656
+ciprofloxacin + vancomycin,pair (interaction),5401,0.90629476
+ceftazidime + linezolid,pair (interaction),56,0.90626585
+tobramycin + vancomycin,pair (interaction),232,0.90404993
+meropenem + vancomycin (oral),pair (interaction),327,0.90216535
+acyclovir + micafungin,pair (interaction),141,0.9015788
+acyclovir + ampicillin,pair (interaction),888,0.9015548
+azithromycin + ceftazidime,pair (interaction),382,0.9014854
+acyclovir + doxycycline,pair (interaction),315,0.9002484
+ceftazidime + clindamycin,pair (interaction),52,0.90005046
+amoxicillin-clavulanate + ceftriaxone,pair (interaction),287,0.8998182
+cefazolin + ciprofloxacin,pair (interaction),623,0.89781946
+acyclovir + metronidazole,pair (interaction),955,0.89733815
+cefepime + fluconazole,pair (interaction),735,0.8951582
+ampicillin-sulbactam + cefazolin,pair (interaction),116,0.8877181
+ceftazidime + vancomycin,pair (interaction),2215,0.88755226
+ceftazidime + piperacillin-tazobactam,pair (interaction),477,0.8871897
+moxifloxacin,drug,94,0.88620263
+vancomycin + voriconazole,pair (interaction),239,0.8858427
+aztreonam + vancomycin,pair (interaction),527,0.8847331
+fluconazole + micafungin,pair (interaction),61,0.8789641
+cefazolin + gentamicin,pair (interaction),178,0.8773606
+micafungin + trimethoprim-sulfamethoxazole,pair (interaction),53,0.87477386
+linezolid + piperacillin-tazobactam,pair (interaction),289,0.873564
+ganciclovir + metronidazole,pair (interaction),137,0.8734979
+levofloxacin + piperacillin-tazobactam,pair (interaction),743,0.87267596
+ampicillin-sulbactam + cephalexin,pair (interaction),67,0.8716417
+amoxicillin-clavulanate + vancomycin,pair (interaction),399,0.8708439
+azithromycin + piperacillin-tazobactam,pair (interaction),886,0.86771905
+linezolid + meropenem,pair (interaction),264,0.86355686
+amoxicillin-clavulanate + trimethoprim-sulfamethoxazole,pair (interaction),173,0.8621717
+ampicillin + vancomycin,pair (interaction),1136,0.85412747
+linezolid + vancomycin,pair (interaction),325,0.8534863
+cephalexin + clindamycin,pair (interaction),61,0.85148525
+azithromycin + ceftriaxone,pair (interaction),7919,0.8505287
+ceftriaxone + metronidazole,pair (interaction),6297,0.8463797
+colistin/polymyxin + trimethoprim-sulfamethoxazole,pair (interaction),55,0.8433452
+amikacin,drug,60,0.8352925
+cephalexin + trimethoprim-sulfamethoxazole,pair (interaction),394,0.8341468
+ertapenem,drug,123,0.834083
+metronidazole + trimethoprim-sulfamethoxazole,pair (interaction),739,0.8263506
+trimethoprim-sulfamethoxazole,drug,13769,0.8226389
+acyclovir + cefpodoxime,pair (interaction),114,0.81729907
+tobramycin,drug,314,0.80940306
+ceftaroline,drug,69,0.8075255
+colistin/polymyxin,drug,79,0.806555
+imipenem,drug,168,0.80576473
+tigecycline,drug,96,0.79569525
+penicillin,drug,385,0.78791946
+acyclovir + ciprofloxacin,pair (interaction),870,0.7756711
+cefazolin + vancomycin,pair (interaction),5788,0.775544
+ciprofloxacin + metronidazole,pair (interaction),12041,0.7688354
+ceftriaxone + cephalexin,pair (interaction),167,0.76754105
+oxacillin,drug,149,0.7601031
+cephalexin + doxycycline,pair (interaction),135,0.7554682
+acyclovir + trimethoprim-sulfamethoxazole,pair (interaction),3492,0.7390758
+piperacillin-tazobactam,drug,16055,0.6940001
+cefazolin + cephalexin,pair (interaction),437,0.6819468
+micafungin,drug,532,0.66076744
+rifampin,drug,390,0.657365
+ampicillin,drug,2086,0.6572202
+cephalexin + vancomycin,pair (interaction),653,0.65638226
+voriconazole,drug,593,0.6483904
+ganciclovir,drug,2035,0.6429391
+aztreonam,drug,732,0.62578297
+amoxicillin,drug,980,0.6183343
+linezolid,drug,1487,0.57961845
+ciprofloxacin,drug,25957,0.57764304
+levofloxacin,drug,11863,0.56362456
+cefpodoxime,drug,1476,0.5630194
+daptomycin,drug,1335,0.5548441
+clindamycin,drug,4548,0.5482282
+amoxicillin-clavulanate,drug,2785,0.5450614
+gentamicin,drug,1645,0.5397492
+vancomycin (oral),drug,4609,0.5355555
+vancomycin,drug,56448,0.52974534
+cefazolin,drug,28162,0.5263051
+ceftazidime,drug,2920,0.5205942
+azithromycin,drug,14977,0.50585973
+fluconazole,drug,4654,0.50492364
+doxycycline,drug,4282,0.49299222
+nitrofurantoin,drug,1676,0.49058002
+metronidazole,drug,28518,0.4809665
+ceftriaxone,drug,37429,0.4676343
+cefepime,drug,21150,0.44548145
+meropenem,drug,4395,0.43782812
+ampicillin-sulbactam,drug,8146,0.43214744
+acyclovir,drug,15778,0.33603328

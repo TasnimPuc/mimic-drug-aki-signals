@@ -1,5 +1,7 @@
 # Drug-induced AKI Signal Detector — MIMIC-IV 💊🫘
 
+![repo health](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TasnimPuc/bd-rooftop-solar-calculator/main/.github/health/badge.json)
+
 This is a **pharmacovigilance** study, not a prediction model. It asks which anti-infectives, and which
 **combinations**, are followed by more **acute kidney injury** than expected once patient severity, kidney function
 and other nephrotoxic drugs are accounted for. The analysis uses all MIMIC-IV admissions that received a systemic
